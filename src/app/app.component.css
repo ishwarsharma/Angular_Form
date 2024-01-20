@@ -1,0 +1,14 @@
+.container {
+    /* Set the height of the container to 100% of the viewport height. */
+    height: 100vh;
+  
+    /* Set the display of the container to flexbox. */
+    display: flex;
+  
+    /* Align the items in the container horizontally to the center. */
+    justify-content: center;
+  
+    /* Align the items in the container vertically to the center. */
+    align-items: center;
+  }
+  
